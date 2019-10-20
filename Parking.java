@@ -97,7 +97,6 @@ public class Parking{
             System.out.println("This Vehicle did not park");
         }
 
-
     }
 
     public void print_all_veh(){
@@ -111,9 +110,9 @@ public class Parking{
 
 
     public void report(){
-        DecimalFormat df = new DecimalFormat("0.00");
+        DecimalFormat df = new DecimalFormat("#.00");
         double profit = all_day_profit;
-        profit = profit/100;
+        profit = profit/100.00;
 
         System.out.println("Number of Vehicle: " + all_day_veh + ".\nProfit: " + df.format(profit) + " dollars." );
     }
