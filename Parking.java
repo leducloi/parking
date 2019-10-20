@@ -69,7 +69,7 @@ public class Parking{
                 
                 int seconds = (int) Math.floor((elapsed - hours * 3600000 - minutes * 60000) / 1000);
                 
-                System.out.format("%d hours %d minutes %d seconds%n", hours, minutes, seconds);
+                //System.out.format("%d hours %d minutes %d seconds%n", hours, minutes, seconds);
 
                 if (hours > 0){
                     if (hours <= 4 && minutes <= 59){
