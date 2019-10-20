@@ -1,6 +1,7 @@
 PARKING ZONE
 ------------------------
 *Test case text file:
+
     - First 3 lines: Cost per hour, Cost over 4 hours and Capacity
 
     - Each line:
