@@ -3,6 +3,7 @@ import java.lang.*;
 import java.io.*;
 import java.util.Date;
 import java.util.concurrent.atomic.AtomicInteger;
+import java.text.DecimalFormat;
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
 
@@ -68,7 +69,7 @@ public class Parking{
                 
                 int seconds = (int) Math.floor((elapsed - hours * 3600000 - minutes * 60000) / 1000);
                 
-                //System.out.format("%d hours %d minutes %d seconds%n", hours, minutes, seconds);
+                System.out.format("%d hours %d minutes %d seconds%n", hours, minutes, seconds);
 
                 if (hours > 0){
                     if (hours <= 4 && minutes <= 59){
@@ -85,13 +86,16 @@ public class Parking{
                 }
 
                 all_day_profit += fee;
+                veh_count--;
                 all_veh.remove(out_veh_id);
 
             } catch (ParseException e) {
                 e.printStackTrace();
             }
         }
-        
+        else{
+            System.out.println("This Vehicle did not park");
+        }
 
 
     }
@@ -107,14 +111,21 @@ public class Parking{
 
 
     public void report(){
-        System.out.println("Number of Vehicle: " + all_day_veh + "\nProfit: " + all_day_profit );
+        DecimalFormat df = new DecimalFormat("0.00");
+        double profit = all_day_profit;
+        profit = profit/100;
+
+        System.out.println("Number of Vehicle: " + all_day_veh + ".\nProfit: " + df.format(profit) + " dollars." );
     }
 
     public static void main(String args[])
     {
+        Scanner scan = new Scanner(System.in);
+        System.out.print("Enter name of test file: ");
+        String input_file = scan.nextLine();
 
         try {
-            BufferedReader br = new BufferedReader(new FileReader("testcase1.txt"));
+            BufferedReader br = new BufferedReader(new FileReader(input_file));
             String line;
 
             line = br.readLine();
