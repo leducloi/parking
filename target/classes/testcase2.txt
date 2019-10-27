@@ -1,12 +1,6 @@
-Cost;1599
-Cost4h;5999
-Capacity;5
 Enter;08:56:48 am
 Enter;09:41:12 am
 Enter;09:45:10 am
-Enter;09:55:42 am
-Enter;10:10:23 am
-Enter;10:14:58 am 
 Exit;2;10:23:59 am
 Exit;1;11:12:11 am
 Enter;12:44:24 pm

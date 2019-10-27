@@ -1,6 +1,3 @@
-Cost;1999
-Cost4h;5999
-Capacity;3
 Enter;06:56:48 am
 Enter;07:41:12 am
 Enter;10:23:10 am
