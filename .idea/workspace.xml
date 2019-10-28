@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2806a910-ac71-4dc9-a2af-7144c19d6b3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Zone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Zone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Parking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Zone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Zone.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Zone1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Zone1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Zone2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Zone2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Zone3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Zone3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Parking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Parking.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Vehicle.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,11 +47,17 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn package" />
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
