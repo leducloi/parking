@@ -3,15 +3,25 @@
   <component name="ChangeListManager">
     <list default="true" id="2806a910-ac71-4dc9-a2af-7144c19d6b3d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Parking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Parking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Zone.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Zone.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Zone1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Zone1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Zone2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Zone2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Zone3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Zone3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Parking.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Parking.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Parking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Vehicle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Zone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Zone1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Zone2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Zone3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testcase1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testcase2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testcase3.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testcase4.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/testcase5.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/parking-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Parking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Vehicle.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +67,7 @@
   <component name="RunAnythingCache">
     <option name="myCommands">
       <command value="mvn package" />
+      <command value="mvn clean install -U" />
     </option>
   </component>
   <component name="RunDashboard">
