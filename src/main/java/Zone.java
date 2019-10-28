@@ -33,7 +33,7 @@ public class Zone{
             all_day_veh++;
         }
         else{
-            System.out.println("Out of Space, Please go back later");
+            System.out.println("Out of Space, Please go back later or Go to another Zone");
         }
 
     }

@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2806a910-ac71-4dc9-a2af-7144c19d6b3d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testcase2.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testcase2.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testcase3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testcase3.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testcase4.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testcase4.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testcase5.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testcase5.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Zone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Zone.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

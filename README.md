@@ -2,6 +2,17 @@ PARKING ZONE
 ------------------------
 There are 3 levels in the Parking Lots: Zone 1, Zone 2, Zone 3.
 
+2 types of fee will be charged: per hour or over 4 hours.
+
+Cars will come into the Zone that people want.
+    If Zone is out of space:
+        "Out of Space, Please go back later or Go to another Zone" will be displayed
+    Every car will have different ID as a ticket for identifying purpose.
+
+When Cars exit.
+    They will show the ID on the ticket.
+    The fee will show and have to be paid. 
+     
 Test case text file:
 
     - Each line:
