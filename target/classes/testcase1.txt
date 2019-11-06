@@ -1,0 +1,14 @@
+Enter;level=1;07:30:42 am
+Enter;level=2;07:41:58 am
+Enter;level=1;08:23:11 am
+Enter;level=1;11:30:22 am
+Enter;level=3;12:45:59 pm
+Enter;level=2;02:56:14 pm
+Enter;level=3;02:59:45 pm
+Exit;id=3;level=1;03:04:12 pm
+Exit;id=5;level=3;03:45:12 pm
+Exit;id=2;level=2;03:45:56 pm
+Exit;id=1;level=1;03:47:24 pm
+Exit;id=7;level=3;03:58:12 pm
+Exit;id=6;level=2;04:24:45 pm
+Exit;id=4;level=1;05:45:35 pm
